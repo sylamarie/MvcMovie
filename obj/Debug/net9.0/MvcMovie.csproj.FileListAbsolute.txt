@@ -360,3 +360,4 @@ C:\Users\sylam\MvcMovie\obj\Debug\net9.0\MvcMovie.pdb
 C:\Users\sylam\MvcMovie\obj\Debug\net9.0\MvcMovie.genruntimeconfig.cache
 C:\Users\sylam\MvcMovie\obj\Debug\net9.0\ref\MvcMovie.dll
 c:\Users\sylam\MvcMovie\obj\Debug\net9.0\compressed\euikqtqh4l-lnk3m4p6g8.gz
+c:\Users\sylam\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sylam\\MvcMovie\\MvcMovie.csproj": {}
+    "c:\\Users\\sylam\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sylam\\MvcMovie\\MvcMovie.csproj": {
+    "c:\\Users\\sylam\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sylam\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "c:\\Users\\sylam\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\sylam\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "c:\\Users\\sylam\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\sylam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sylam\\MvcMovie\\obj\\",
+        "outputPath": "c:\\Users\\sylam\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sylam\\AppData\\Roaming\\NuGet\\NuGet.Config"
